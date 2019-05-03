@@ -65,7 +65,7 @@
         "name": "fallback",
         "type": "resource",
         "valid": ["image"],
-        "default": "no-content-info-beamer.jpg"
+        "default": "Signagram_Logo_Landscape_WB_no_content_scheduled.jpg"
     }, {
         "title": "Music Asset",
         "ui_width": 4,
